@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Angular Crash Course",
+      "day": "Jan 10 at 9:00am",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Create a Landing Page",
+      "day": "Jan 10 at 3:00pm",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Host Pages and Send in link",
+      "day": "Jan 10 at 3:00pm",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
